@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Revanth Varshan S
 
 # 💫 About Me:
-- 🎓 Pre-Final year CSE student at **Kumaraguru College of Technology**  <br>- 👨‍💼 Data Analyst Intern at **Roche Pharma**  <br>- 🏆 **3x Mahatma Gandhi Merit Scholar** | IEEE Hackathon🥉<br>- 💡 Enthusiastic about building AI-ML solutions that scale impact  <br>- ✨ Actively exploring **Big Data**, **Cloud**, and **Adversarial AI**  <br>- 🧩 Driven by a mindset of building, experimenting, and growing through collaboration.
+- 🎓 Pre-Final year CSE student at **Kumaraguru College of Technology**  <br>- 👨‍💼 Data Analyst Intern at **Roche Pharma India**  <br>- 🏆 **3x Mahatma Gandhi Merit Scholar** | IEEE Hackathon🥉<br>- 💡 Enthusiastic about building Coding solutions that scale impact  <br>- ✨ Actively exploring **Big Data**, **Cloud**, and **Adversarial AI**  <br>- 🧩 Driven by a mindset of building, experimenting, and growing through collaboration.
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=RevanthVarshanS&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthVarshanS&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ⚡️Here's a Booster For Visiting My Profile
+### ⚡️ Here's a Booster For Visiting My Profile
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
