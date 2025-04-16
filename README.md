@@ -4,9 +4,6 @@
 <br>- 🎓 Pre-Final year CSE student at **Kumaraguru College of Technology**  <br>- 👨‍💼 Data Analyst Intern at **Roche Pharma India**  <br>- 🏆 **3x Mahatma Gandhi Merit Scholar** | IEEE Hackathon🥉<br>- 💡 Enthusiastic about building Coding solutions that scale impact  <br>- ✨ Actively exploring **Big Data**, **Cloud**, and **Adversarial AI**  <br>-🧩 Empowered by curiosity, I thrive on building, experimenting, and scaling impact through collaboration.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rev_shan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/revanth-varshan-s) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@revanthvarshan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:revanthvarshan03@gmail.com) 
-
 # 👨🏻‍💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -73,6 +70,10 @@
 </div>
 
 ###
+
+## 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/revanth-varshan-s) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rev_shan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@revanthvarshan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:revanthvarshan03@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RevanthVarshanS&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
