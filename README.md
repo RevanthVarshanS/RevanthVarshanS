@@ -5,7 +5,7 @@
 ## Hi there, I'm Revanth Varshan S 👋
 
 ## 🥷🏼 About Me
-<br>- 🎓 Final year student @ **Kumaraguru College of Technology** <br>- **President - KCT CSE™️** <br>- 👨‍💼 Former Data Analyst Intern at **Roche Pharma India** and **Schlumberger** <br>- 🏆 **3x Mahatma Gandhi Merit Scholar** | IEEE Hackathon🥉<br>- 💡 Enthusiastic about building Coding solutions that scale impact  <br>- ✨ Actively exploring **Big Data**, **Cloud**, and **Adversarial AI**  <br>-🧩 Empowered by curiosity, I thrive on building, experimenting, and scaling impact through collaboration.
+<br>- 🎓 Final year student @ **Kumaraguru College of Technology** <br>- **™️President - KCT CSE** <br>- 👨‍💼 Former Data Analyst Intern at **Roche Pharma India** and **Schlumberger** <br>- 🏆 **3x Mahatma Gandhi Merit Scholar** | IEEE Hackathon🥉<br>- 💡 Enthusiastic about building Coding solutions that scale impact  <br>- ✨ Actively exploring **Big Data**, **Cloud**, and **Adversarial AI**  <br>-🧩 Empowered by curiosity, I thrive on building, experimenting, and scaling impact through collaboration.
 
 
 # 👨🏻‍💻 I Build Solutions With:
