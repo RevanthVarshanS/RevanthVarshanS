@@ -5,13 +5,13 @@
 ## Hi there, I'm Revanth Varshan S 👋
 
 ## 🥷🏼 About Me
-<br>- 🎓 Final year student @ **Kumaraguru College of Technology** <br>- **™️ President - KCT CSE** <br>- 👨‍💼 Former Data Analyst Intern at **Roche Pharma India** and **Schlumberger** <br>- 🏆 **3x Mahatma Gandhi Merit Scholar** | IEEE Hackathon🥉<br>- 💡 Enthusiastic about building Coding solutions that scale impact  <br>- ✨ Actively exploring **Big Data**, **Cloud**, and **Adversarial AI**  <br>-🧩 Empowered by curiosity, I thrive on building, experimenting, and scaling impact through collaboration.
+<br>- 🎓 Final year student @ **Kumaraguru College of Technology** <br>- **™️ President - KCT CSE** <br>- 🧑🏻‍💼 Former Data Analyst Intern at **Roche Pharma India** and **Schlumberger** <br>- 🏆 **3x Mahatma Gandhi Merit Scholar** | IEEE Hackathon🥉<br>- 💡 Enthusiastic about building Coding solutions that scale impact  <br>- ✨ Actively exploring **Big Data**, **Cloud**, and **Adversarial AI**  <br>-🧩 Empowered by curiosity, I thrive on building, experimenting, and scaling impact through collaboration.
 
 
 # 👨🏻‍💻 I Build Solutions With:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="12" />🧑🏻‍💼
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
